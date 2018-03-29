@@ -11,6 +11,7 @@ import java.util.List;
 public class ModuleRefreshSchedulerImpl extends AbstractModuleRefreshScheduler{
     //替换这个路径为你本地路径
     private static final String PATH = "/Users/huyong/Documents/git_work/baofoo/person/jarslink/";
+
     private static final String VERSION = "1.0.0-SNAPSHOT";
 
     @Override
